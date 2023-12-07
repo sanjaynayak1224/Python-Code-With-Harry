@@ -10,5 +10,4 @@ print(txt.format(price=49.0999))
 price=49.09999
 txt=f"For only {price:.2f} dollars!"
 print(txt)
-
 print(f"{2*30}", type(f"{2*30}"))
